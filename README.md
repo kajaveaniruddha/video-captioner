@@ -1,6 +1,8 @@
 # Video Captioning Tool
-![Video Demo](https://www.veed.io/view/34c8e1bb-8dc1-44d7-bc3d-188777d2ec5c?panel=share)
 This is a simple web application built with React and SASS that allows users to add captions to a video and display them dynamically as the video plays.
+
+
+![Video Demo](https://www.veed.io/view/34c8e1bb-8dc1-44d7-bc3d-188777d2ec5c?panel=share)
 
 ## Features
 
