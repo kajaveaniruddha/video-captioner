@@ -6,8 +6,10 @@ This is a simple web application built with React and SASS that allows users to 
 
 - Enter a URL to a hosted video.
 - Add captions with timestamps (in seconds).
+   ![image](https://github.com/kajaveaniruddha/video-captioner/assets/66174998/803c17ff-4f63-4710-af22-b9e623359151)
 - Display captions synchronized with video playback.
 - Play and pause the video.
+   ![image](https://github.com/kajaveaniruddha/video-captioner/assets/66174998/08c2ce33-cd66-4e0e-8887-de7ec98ac455)
 
 ## Getting Started
 
