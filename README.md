@@ -21,8 +21,8 @@ This is a simple web application built with React and SASS that allows users to 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/video-captioning-tool.git
-   cd video-captioning-tool
+   git clone https://github.com/kajaveaniruddha/video-captioner.git
+   cd video-captioner
    ```
 
 2. Install dependencies:
@@ -36,10 +36,10 @@ This is a simple web application built with React and SASS that allows users to 
 1. Start the development server:
 
    ```sh
-   npm start
+   npm run dev
    ```
 
-2. Open your browser and go to `http://localhost:3000` to view the application.
+2. Open your browser and go to `http://localhost:5173` to view the application.
 
 3. Enter the video URL, captions, and timestamps in the input fields.
 
@@ -63,7 +63,7 @@ video-captioning-tool/
 │   ├── components/ # React components
 │   ├── styles/     # SASS styles (main.scss)
 │   ├── App.jsx     # Main application component
-│   ├── index.js    # Entry point
+│   ├── main.jsx    # Entry point
 │   └── ...
 ├── package.json    # Dependencies and scripts
 └── README.md       # Project documentation
@@ -71,7 +71,7 @@ video-captioning-tool/
 
 ### Notes
 
-- Adjust the SASS styles in `src/styles/main.scss` to customize the look and feel of the application.
+- Adjust the SASS styles in `src/styles/index.scss` to customize the look and feel of the application.
 - The application uses React Player for video playback and relies on local state for managing captions and timestamps.
 
 ---
